@@ -22,7 +22,6 @@
     "typescript": "~4.4.2"
   },
   "dependencies": {
-    "aws-cdk-lib": "^2.0.0",
     "@aws-cdk/aws-codepipeline": "^1.121.0",
     "@aws-cdk/aws-codepipeline-actions": "^1.121.0",
     "@aws-cdk/aws-apigatewayv2": "^1.204.0",
